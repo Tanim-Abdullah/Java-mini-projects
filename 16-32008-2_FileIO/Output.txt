@@ -1,0 +1,6 @@
+Number of alphabets: 77
+Number of vowels: 36
+Number of consonants: 41
+Number of words: 6
+Number of sentences: 4
+Number of lines: 2
